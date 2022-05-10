@@ -1,5 +1,5 @@
 """
-Jesus Zeno. Assignment 1. We will be scraping a site for best selling books and putting certain data
+Jesus Zeno. We will be scraping a site for best selling books and putting certain data
 points into a data frame. Then we will be cleaning up the data so it can be visualized.
 """
 
